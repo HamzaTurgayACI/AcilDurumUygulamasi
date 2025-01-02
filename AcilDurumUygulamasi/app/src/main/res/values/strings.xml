@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AcilDurumUygulamasi</string>
+
+
+        <string-array name="disaster_types">
+            <item>Deprem</item>
+            <item>Yangın</item>
+            <item>Sel</item>
+        </string-array>
+
+
+</resources>
